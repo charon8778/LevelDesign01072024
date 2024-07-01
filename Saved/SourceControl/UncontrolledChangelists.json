@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Level1_Pickup_Enemy.umap",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Dialogue/00Dialogue.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Dialogue/BP_questGiver.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/Epic Games/UE_5.2/Engine/Plugins/Marketplace/DialoguePlugin/Content/UI/DemoDialogueWidget.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/BP_Enemy_2.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/BP_Enemy_Dummy.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/BP_Enemy.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Inventory/BPC_inventory.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/AI.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Inventory/BP_item.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/NewBlueprint.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/W_HealthBar.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Inventory/E_itemType.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Dialogue/BP_spawnSeed.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Dialogue/BP_light.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Dialogue/BPI_destroyableLight.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Dialogue/NPC2/W_noKey.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Dialogue/NPC2/BP_npc2_inCage.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Dialogue/NPC2/NPCinCage.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/FireAttack/BP_physikprojectile.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/FireAttack/BP_FireProjectile.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Dialogue/W_noMagic.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Dialogue/BP_spawnFireEle.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Dialogue/NPC2/BP_spawnFireEle.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Inventory/BP_item_Child.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/FireAttack/E_itemType_2.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/E_itemType_2.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Inventory/E_itemType_2.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/BPI_destroyable.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Dialogue/BPI_destroyable.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Dialogue/W_noKey.uasset",
+				"E:/07LevelDesign/LevelDesign/Content/Level1/Inventory/BP_key.uasset",
+				"E:/07LevelDesign/0630/LEVELDESIGN0630/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
